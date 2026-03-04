@@ -1,0 +1,20 @@
+{
+	"Name": "Topup_EPIC_B0_B1 outputs", 
+	"BIDSVersion": "1.5.0",
+	"DatasetType": "derivative",
+	"GeneratedBy": [
+			 {	
+				"Name": "Topup EPIC B0 correction and B1 transmit correction"
+			 },
+			 {
+				"Name": "Manual",
+
+				"Description": " In order to correct for magnetic and radio frequency field inhomogeneities within MRI volumes B0 and B1 corrections are made using the EPIC method, Topup, and utlizing B1 transmit fieldmaps.  FreeSurfer's standard mri_ms_fitparms is called utilizing the B0 corrected volumes and a B1 transmit fieldmap is given as an additional input. mri_ms_fitparms is then used to generate PD, T1 and T2* and to synthesize contrasts of varying FAs that are corrected for B1 transmit field inhomogeneity. More information on mri_ms_fitparms is documented here: https://surfer.nmr.mgh.harvard.edu/fswiki/mri_ms_fitparms",
+				
+				"CodeURL": "https://github.com/freesurfer/freesurfer/blob/dev/mri_ms_fitparms/mri_ms_fitparms.cpp"
+			 }
+
+			],
+	"Description": "This is a dataset from a Variable Flip Angle (VFA) scan which has been processed through the pipeline described above to compute synthesized volumes that are corrected for B0 and B1+ magnetic field inhomogeneity."
+
+}
