@@ -1,0 +1,16 @@
+{
+    "IntendedFor": "sub-HCPA2_ses-MRI_T1_VFA.nii.gz",
+    "Manufacturer": "Siemens",
+    "ManufacturerModelName": "MAGNETOM Terra",
+    "MagneticFieldStrength": "7",
+    "InstitutionName": "MGH, HST",
+    "PulseSequenceType": "GRE",
+    "RepetitionTime": "0.055",
+    "FlipAngle": [
+        [
+            "20",
+            "40",
+            "10"
+        ]
+    ]
+}
