@@ -1,0 +1,18 @@
+{
+  "Name": "Acquisition and Analysis of Ex Vivo MRI and Neuropathology in healthy and VCID subjects",
+  "BIDSVersion": "2.4.1",
+  "DatasetType": "raw",
+  "License": "CC-BY-4.0",
+  "Authors": [
+    "Andre van der Kouwe","Bruce Fischl","Susie Yi Huang", "David Salat", "Amber Nolan", "Dirk Keene", "Christine Mac Donald", "Emily Ragaglia", "Kathryn Evancic", "Divya Varadarajan", "Robert Frost", "Allison Stevens Player", "Yael Balbastre", "Jackson Nolan", "Paul Wighton", "Jocelyn Mora", "Jean Augustinack", "Brian Edlow", "Jingting Yao", "Valentina Perosa", "Kristen Dams O'conner", "Dongsuk Sung", "Chiara Mauri", "Cole Analoro", "Ara Mahar", "Rose Coviello", "Allison McKenzie", "Lucas Jacob Deden Binder", "Jonathan Williams Ramirez"
+  ],
+
+  "Acknowledgements": "University of Washington, DANDI",
+  "HowToAcknowledge": "Kouwe, Andre van der; Fischl, Bruce; Huang, Susie Yi; Salat, David; Nolan, Amber; Keene, Dirk; Mac Donald, Christine; Ragaglia, Emily; Evancic, Kathryn; Varadarajan, Divya; Frost, Robert; Player, Allison Stevens; Balbastre, Yael; Nolan, Jackson; Wighton, Paul; Mora, Jocelyn; Augustinack, Jean; Edlow, Brian; Yao, Jingting; Perosa, Valentina; Dams O'conner, Kristen, Sung, Dongsuk; Mauri, Chiara; Analoro, Cole; Mahar, Ara; Coviello, Rose; McKenzie, Allison; Deden Binder, Lucas Jacob; Williams Ramirez, Jonathan (2025) Acquisition and Analysis of Ex Vivo MRI and Neuropathology in healthy and VCID subjects (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001437/draft/",
+  "Funding": [
+    "National Institute of Mental Health:5U24NS135561"
+  ],
+  "ReferencesAndLinks": [
+    "https://dandiarchive.org/dandiset/001437/draft/"
+  ]
+}
